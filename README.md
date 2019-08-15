@@ -104,7 +104,7 @@ In order to familiarise yourself with Spring Boot and new Java features, there a
 available at https://github.com/fat-potato-uk. These are meant to be completed in an interactive 
 classroom/hackathon type setting. Below lists some of the tutorials and what they aim to provide:
 
-* Challenge 1: An introduction to Spring Boot controllers (https://github.com/hojomojo/rest-demo-1.git)
+* Challenge 1: An introduction to Spring Boot controllers (https://github.com/fat-potato-uk/rest-demo-1.git)
 
 
 These ideally should be completed in the order suggested. Each has a README that provides details
