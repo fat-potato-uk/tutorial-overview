@@ -81,7 +81,7 @@ _Java 8_
 _Java 9_
 * JShell
 * Modules
-* Collection factory methods
+* Collection factory methods (`List.of()`)
 * Private interface methods
 
 _Java 10_
@@ -106,7 +106,8 @@ classroom/hackathon type setting. Below lists some of the tutorials and what the
 
 * Challenge 1: An introduction to Spring Boot controllers (https://github.com/fat-potato-uk/rest-demo-1.git)
 * Challenge 2: An introduction to Spring JPA (https://github.com/fat-potato-uk/rest-demo-2a.git)
-
+* Challenge 3: Providing a REST service over a database (https://github.com/fat-potato-uk/rest-demo-2b.git)
+* Challenge 4: Testing a REST/DB service (https://github.com/fat-potato-uk/rest-demo-2c.git)
 
 These ideally should be completed in the order suggested. Each has a README that provides details
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
