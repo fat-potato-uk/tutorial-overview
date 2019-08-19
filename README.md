@@ -110,6 +110,7 @@ classroom/hackathon type setting. Below lists some of the tutorials and what the
 * Challenge 5: JUnit 5 and better testing (https://github.com/fat-potato-uk/rest-demo-2d.git)
 * Challenge 6: Spies and Argument Captors (https://github.com/fat-potato-uk/rest-demo-2e.git)
 * Challenge 7: Metrics (https://github.com/fat-potato-uk/rest-demo-2f.git)
+* Challenge 8: Java streams (https://github.com/fat-potato-uk/streamstutorial.git)
 
 These ideally should be completed in the order suggested. Each has a README that provides details 
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
