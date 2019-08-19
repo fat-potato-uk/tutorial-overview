@@ -11,7 +11,7 @@ Reasons I include for this point of view are:
 * Great support for quick to market heavy business logic applications
 * Good support for web-based applications
 * Powerful collection manipulation (streams)
-* Great testing support (especially with Springboot), including mocks, spys and trivial cucumber 
+* Great testing support (especially with Springboot), including mocks, spys and trivial cucumber (BDD)
   integration.
 * Frameworks that help with common patterns/approaches (e.g. database support)
 
@@ -54,7 +54,6 @@ menu in intelliJ itself)
 http://jdk.java.net/12/ (GENERAL RELEASE!)
 
 Save to a location where you want to store Java and you will link to it later
-
 
 #### Whats been going on then?
 
@@ -108,10 +107,19 @@ classroom/hackathon type setting. Below lists some of the tutorials and what the
 * Challenge 2: An introduction to Spring JPA (https://github.com/fat-potato-uk/rest-demo-2a.git)
 * Challenge 3: Providing a REST service over a database (https://github.com/fat-potato-uk/rest-demo-2b.git)
 * Challenge 4: Testing a REST/DB service (https://github.com/fat-potato-uk/rest-demo-2c.git)
+* Challenge 5: JUnit 5 and better testing (https://github.com/fat-potato-uk/rest-demo-2d.git)
+* Challenge 6: Spies and Argument Captors (https://github.com/fat-potato-uk/rest-demo-2e.git)
+* Challenge 7: Metrics (https://github.com/fat-potato-uk/rest-demo-2f.git)
 
-These ideally should be completed in the order suggested. Each has a README that provides details
+These ideally should be completed in the order suggested. Each has a README that provides details 
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
 the repo) first!
+
+For challenges 2->7, each builds upon the last. The best way to complete these is to retain the 
+"answer" from the previous challenge on build upon it for the next.
+
+There may be a few principles worth running through beforehand too, the main being IoC. Hopefully
+I have covered this by now, otherwise, shout!
 
 Enjoy!
 
