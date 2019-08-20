@@ -103,14 +103,14 @@ In order to familiarise yourself with Spring Boot and new Java features, there a
 available at https://github.com/fat-potato-uk. These are meant to be completed in an interactive 
 classroom/hackathon type setting. Below lists some of the tutorials and what they aim to provide:
 
-* Challenge 1: An introduction to Spring Boot controllers (https://github.com/fat-potato-uk/rest-demo-1.git)
-* Challenge 2: An introduction to Spring JPA (https://github.com/fat-potato-uk/rest-demo-2a.git)
-* Challenge 3: Providing a REST service over a database (https://github.com/fat-potato-uk/rest-demo-2b.git)
-* Challenge 4: Testing a REST/DB service (https://github.com/fat-potato-uk/rest-demo-2c.git)
-* Challenge 5: JUnit 5 and better testing (https://github.com/fat-potato-uk/rest-demo-2d.git)
-* Challenge 6: Spies and Argument Captors (https://github.com/fat-potato-uk/rest-demo-2e.git)
-* Challenge 7: Metrics (https://github.com/fat-potato-uk/rest-demo-2f.git)
-* Challenge 8: Java streams (https://github.com/fat-potato-uk/streamstutorial.git)
+* Challenge 1: [An introduction to Spring Boot controllers](https://github.com/fat-potato-uk/rest-demo-1.git)
+* Challenge 2: [An introduction to Spring JPA](https://github.com/fat-potato-uk/rest-demo-2a.git)
+* Challenge 3: [Providing a REST service over a database](https://github.com/fat-potato-uk/rest-demo-2b.git)
+* Challenge 4: [Testing a REST/DB service](https://github.com/fat-potato-uk/rest-demo-2c.git)
+* Challenge 5: [JUnit 5 and better testing](https://github.com/fat-potato-uk/rest-demo-2d.git)
+* Challenge 6: [Spies and Argument Captors](https://github.com/fat-potato-uk/rest-demo-2e.git)
+* Challenge 7: [Metrics](https://github.com/fat-potato-uk/rest-demo-2f.git)
+* Challenge 8: [Java streams](https://github.com/fat-potato-uk/streamstutorial.git)
 
 These ideally should be completed in the order suggested. Each has a README that provides details 
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
