@@ -114,6 +114,11 @@ classroom/hackathon type setting. Below lists some of the tutorials and what the
 * Challenge 9: [Cucumber and Docker](https://github.com/fat-potato-uk/cuke-docker-demo)
 * Challenge 10: [Test containers and Cucumber](https://github.com/fat-potato-uk/cuke-test-containers-demo)
 
+There are also some examples for common patterns that do not have any explicit challenges associated with them but
+provide a good starting point for further investigation/devlelopment:
+
+* Tracing: [Open Trace and Jaeger](https://github.com/fat-potato-uk/rest-demo-open-trace)
+
 These ideally should be completed in the order suggested. Each has a README that provides details 
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
 the repo) first!
