@@ -104,15 +104,41 @@ available at https://github.com/fat-potato-uk. These are meant to be completed i
 classroom/hackathon type setting. Below lists some of the tutorials and what they aim to provide:
 
 * Challenge 1: [An introduction to Spring Boot controllers](https://github.com/fat-potato-uk/rest-demo-1.git)
+    * Create your first MVC/RESTful service
+    * Intro to `Lombok`
+    * `MockMvc` and testing controllers
 * Challenge 2: [An introduction to Spring JPA](https://github.com/fat-potato-uk/rest-demo-2a.git)
+    * Spring JPA
+    * IoC
+    * Spring Beans
 * Challenge 3: [Providing a REST service over a database](https://github.com/fat-potato-uk/rest-demo-2b.git)
+    * Multi-endpoint controllers
+    * Optionals
+    * Controller advice
+    * Custom exceptions
 * Challenge 4: [Testing a REST/DB service](https://github.com/fat-potato-uk/rest-demo-2c.git)
+    * End-2-end testing with `MockMvc` and `jsonPath`
 * Challenge 5: [JUnit 5 and better testing](https://github.com/fat-potato-uk/rest-demo-2d.git)
+    * Intro to `JUnit 5`
+    * Mocks
+    * Improving test scope
 * Challenge 6: [Spies and Argument Captors](https://github.com/fat-potato-uk/rest-demo-2e.git)
+    * Spies
+    * Argument Captors
 * Challenge 7: [Metrics](https://github.com/fat-potato-uk/rest-demo-2f.git)
+    * `Spring Actuator` and metrics
+    * `Prometheus` endpoints
+    * `@DirtiesContex` dangers and trickier tests
 * Challenge 8: [Java streams](https://github.com/fat-potato-uk/streamstutorial.git)
+    * Optionals
+    * Streams
 * Challenge 9: [Cucumber and Docker](https://github.com/fat-potato-uk/cuke-docker-demo)
+    * Cucumber and Java
+    * How to Dockerfile with Maven
+    * Integration testing approach
 * Challenge 10: [Test containers and Cucumber](https://github.com/fat-potato-uk/cuke-test-containers-demo)
+    * Test containers
+    * System testing approach
 
 There are also some examples for common patterns that do not have any explicit challenges associated with them but
 provide a good starting point for further investigation/devlelopment:
