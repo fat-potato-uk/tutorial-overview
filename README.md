@@ -118,6 +118,7 @@ There are also some examples for common patterns that do not have any explicit c
 provide a good starting point for further investigation/devlelopment:
 
 * Tracing: [Open Trace and Jaeger](https://github.com/fat-potato-uk/rest-demo-open-trace)
+* Polymorphic Json: [Polymorphic Json and Freemarker]: (https://github.com/fat-potato-uk/rest-polymorphic-json-and-freemarker)
 
 These ideally should be completed in the order suggested. Each has a README that provides details 
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
