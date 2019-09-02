@@ -1,6 +1,6 @@
 ## Java Spring Boot 101
 
-So, before we start, why do why we Java? Surely a language that has been around
+So, before we start, why do we Java? Surely a language that has been around
 for so long has been superseded by newer and much more cutting edge technologies?
 
 Well, in this developers humble opinion, it still has a prominent place in modern
