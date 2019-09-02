@@ -158,5 +158,20 @@ I have covered this by now, otherwise, shout!
 
 Enjoy!
 
+#### The ULTIMATE challenge
 
+If you find yourself at a loose end and have completed all the exercises, you can try constructing an example
+prescription service! This will be a RESTFul application that serves tailored prescriptions for each patient.
+
+You will need:
+
+* An endpoint for a doctor to submit a prescription with an authorisation token in the `@RequestHeader`
+* An endpoint for a nurse that can make alterations to the dosage (!)
+* A endpoint for a patient to receive the prescription (with the name of the authorising doctor, medication and boiler
+plate safety information)
+* A suite of cucumber tests that verify various interactions
+* A persisted store to an external database housing the information
+* A trace span that tags the authorising medical professional that created the prescription
+* A Dockerfile to deliver the product
+* A cucumber "smoke test" to verify that the e2e system works as intended!
  
