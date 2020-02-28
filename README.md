@@ -139,12 +139,16 @@ classroom/hackathon type setting. Below lists some of the tutorials and what the
 * Challenge 10: [Test containers and Cucumber](https://github.com/fat-potato-uk/cuke-test-containers-demo)
     * Test containers
     * System testing approach
+* Challenge 11: [Documentation with Swagger](https://github.com/fat-potato-uk/reset-demo-3-swagger)
+    * Documenting Restful APIs with Swagger
+    * Testing through the Swagger interface
 
 There are also some examples for common patterns that do not have any explicit challenges associated with them but
 provide a good starting point for further investigation/devlelopment:
 
 * Tracing: [Open Trace and Jaeger](https://github.com/fat-potato-uk/rest-demo-open-trace)
 * Polymorphic Json: [Polymorphic Json and Freemarker](https://github.com/fat-potato-uk/rest-polymorphic-json-and-freemarker)
+* Grpc: [Grpc](https://github.com/fat-potato-uk/grpc)
 
 These ideally should be completed in the order suggested. Each has a README that provides details 
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
