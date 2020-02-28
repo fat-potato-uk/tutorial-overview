@@ -139,7 +139,7 @@ classroom/hackathon type setting. Below lists some of the tutorials and what the
 * Challenge 10: [Test containers and Cucumber](https://github.com/fat-potato-uk/cuke-test-containers-demo)
     * Test containers
     * System testing approach
-* Challenge 11: [Documentation with Swagger](https://github.com/fat-potato-uk/reset-demo-3-swagger)
+* Challenge 11: [Documentation with Swagger](https://github.com/fat-potato-uk/rest-demo-3-swagger)
     * Documenting Restful APIs with Swagger
     * Testing through the Swagger interface
 
