@@ -49,9 +49,9 @@ https://www.jetbrains.com/idea/download
 https://plugins.jetbrains.com/plugin/6317-lombok-plugin (This can be acquired from the plugins
 menu in intelliJ itself)
  
-*Java 12*
+*Java 13*
 
-http://jdk.java.net/12/ (GENERAL RELEASE!)
+http://jdk.java.net/13/ (GENERAL RELEASE!)
 
 Save to a location where you want to store Java and you will link to it later
 
@@ -96,6 +96,10 @@ _Java 11_
 _Java 12_
 * Switch statement changes (preview)
 * API improvements (Collector, String)
+
+_Java 13_
+* Switch statement changes (preview)
+* Text blocks (preview)
 
 ### The tutorials
 
@@ -148,7 +152,7 @@ provide a good starting point for further investigation/devlelopment:
 
 * Tracing: [Open Trace and Jaeger](https://github.com/fat-potato-uk/rest-demo-open-trace)
 * Polymorphic Json: [Polymorphic Json and Freemarker](https://github.com/fat-potato-uk/rest-polymorphic-json-and-freemarker)
-* Grpc: [Grpc](https://github.com/fat-potato-uk/grpc)
+* Grpc: [Grpc](https://github.com/fat-potato-uk/grpc) and [Streaming Grpc](https://github.com/fat-potato-uk/grpc-streaming)
 
 These ideally should be completed in the order suggested. Each has a README that provides details 
 on the challenge and should be preferably read and completed without peeking at the answer (cloning
