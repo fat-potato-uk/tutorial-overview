@@ -55,6 +55,10 @@ http://jdk.java.net/13/ (GENERAL RELEASE!)
 
 Save to a location where you want to store Java and you will link to it later
 
+*Alternative IDE Option: Visual Studio Code*
+
+If you wish to use VS Code instead of IntelliJ, there is a brief guide [here] on how to set it up. There are also some additional notes on how the challenges may differ subtly using this IDE.
+
 #### Whats been going on then?
 
 So, many people have used Java before, but often not for many years. So, whats it been up to?
