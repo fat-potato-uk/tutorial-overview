@@ -57,7 +57,7 @@ Save to a location where you want to store Java and you will link to it later
 
 *Alternative IDE Option: Visual Studio Code*
 
-If you wish to use VS Code instead of IntelliJ, there is a brief guide [here] on how to set it up. There are also some additional notes on how the challenges may differ subtly using this IDE.
+If you wish to use VS Code instead of IntelliJ, there is a brief guide [here](https://github.com/fat-potato-uk/vscode-setup) on how to set it up. There are also some additional notes on how the challenges may differ subtly using this IDE.
 
 #### Whats been going on then?
 
