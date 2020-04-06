@@ -49,9 +49,9 @@ https://www.jetbrains.com/idea/download
 https://plugins.jetbrains.com/plugin/6317-lombok-plugin (This can be acquired from the plugins
 menu in intelliJ itself)
  
-*Java 13*
+*Java 14*
 
-http://jdk.java.net/13/ (GENERAL RELEASE!)
+http://jdk.java.net/14/ (GENERAL RELEASE!)
 
 Save to a location where you want to store Java and you will link to it later
 
