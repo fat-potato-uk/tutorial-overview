@@ -105,6 +105,11 @@ _Java 13_
 * Switch statement changes (preview)
 * Text blocks (preview)
 
+_Java 14_
+* Records (preview)
+* Switch statements (standard)
+* Text blocks (preview)
+
 ### The tutorials
 
 In order to familiarise yourself with Spring Boot and new Java features, there are various tutorials
