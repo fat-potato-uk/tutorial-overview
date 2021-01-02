@@ -110,6 +110,11 @@ _Java 14_
 * Switch statements (standard)
 * Text blocks (preview)
 
+_Java 15_
+* Records (preview)
+* Sealed classes (preview)
+* Text blocks (standard)
+
 ### The tutorials
 
 In order to familiarise yourself with Spring Boot and new Java features, there are various tutorials
@@ -155,6 +160,10 @@ classroom/hackathon type setting. Below lists some of the tutorials and what the
 * Challenge 11: [Documentation with Swagger](https://github.com/fat-potato-uk/rest-demo-3-swagger)
     * Documenting Restful APIs with Swagger
     * Testing through the Swagger interface
+* Challenge 12: [Spring and Prometheus](https://github.com/fat-potato-uk/spring-helm-prom)
+    * Setting up Minikube
+    * Deploying Prometheus via Helm
+    * Scraping metrics from a Spring application
 
 There are also some examples for common patterns that do not have any explicit challenges associated with them but
 provide a good starting point for further investigation/devlelopment:
